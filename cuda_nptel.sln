@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "week11-cascading-triple", "week11-cascading-triple\week11-cascading-triple.vcxproj", "{8F15099F-179D-41C4-B2E9-175236E521C1}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "week-11-convolution", "week-11-convolution\week-11-convolution.vcxproj", "{761BB388-8F44-479E-9FE6-7EC6BFDEB38D}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "week2-hadamard", "week2-hadamard\week2-hadamard.vcxproj", "{2E4EE783-924A-419F-B652-EE62FFB38D0A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8F15099F-179D-41C4-B2E9-175236E521C1}.Debug|x64.ActiveCfg = Debug|x64
+		{8F15099F-179D-41C4-B2E9-175236E521C1}.Debug|x64.Build.0 = Debug|x64
+		{8F15099F-179D-41C4-B2E9-175236E521C1}.Release|x64.ActiveCfg = Release|x64
+		{8F15099F-179D-41C4-B2E9-175236E521C1}.Release|x64.Build.0 = Release|x64
+		{761BB388-8F44-479E-9FE6-7EC6BFDEB38D}.Debug|x64.ActiveCfg = Debug|x64
+		{761BB388-8F44-479E-9FE6-7EC6BFDEB38D}.Debug|x64.Build.0 = Debug|x64
+		{761BB388-8F44-479E-9FE6-7EC6BFDEB38D}.Release|x64.ActiveCfg = Release|x64
+		{761BB388-8F44-479E-9FE6-7EC6BFDEB38D}.Release|x64.Build.0 = Release|x64
+		{2E4EE783-924A-419F-B652-EE62FFB38D0A}.Debug|x64.ActiveCfg = Debug|x64
+		{2E4EE783-924A-419F-B652-EE62FFB38D0A}.Debug|x64.Build.0 = Debug|x64
+		{2E4EE783-924A-419F-B652-EE62FFB38D0A}.Release|x64.ActiveCfg = Release|x64
+		{2E4EE783-924A-419F-B652-EE62FFB38D0A}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {85132C12-339E-4F92-A6B1-159B223E6644}
+	EndGlobalSection
+EndGlobal
